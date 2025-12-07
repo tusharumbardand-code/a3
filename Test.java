@@ -1,6 +1,11 @@
 class Test{
 
-   int a ; 
-   public static void m1(){}
+   public static void main(String [] args){
+
+    Test t = null;
+    System.out.println(t);
+
+
+   }
 
 }
